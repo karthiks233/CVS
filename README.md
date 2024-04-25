@@ -1,2 +1,2 @@
 # CVS
-Database
+Database Design for CVS using MySQL Server
